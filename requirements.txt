@@ -2,7 +2,7 @@
 # pour qu'une mise à jour automatique ne casse pas l'application déployée.
 streamlit==1.66.1
 plotly==7.1.0
-pandas==3.0.2
+pandas==3.0.6
 numpy==2.4.4
 shapely==2.2.0
 openpyxl==3.1.5
