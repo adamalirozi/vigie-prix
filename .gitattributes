@@ -1,0 +1,4 @@
+* text=auto
+*.csv text eol=lf
+# Les données ne comptent pas dans les statistiques de langages GitHub
+data/** linguist-vendored

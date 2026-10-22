@@ -1,0 +1,356 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+228,Abeche,TCD,Ouaddai,Ouara,13.82,20.82
+229,Bol,TCD,Lac,Mamdi,13.5,14.68
+230,Mao,TCD,Kanem,Kanem,14.12,15.31
+231,Mongo,TCD,Guera,Guera,12.18,18.69
+232,Moundou,TCD,Logone Occidental,Lac Wey,8.57,16.08
+233,Moussoro,TCD,Barh El Gazal,Barh El Gazel Sud,13.64,16.49
+234,Ndjamena,TCD,Ndjaména,Ndjamena,12.11,15.04
+235,Sarh,TCD,Moyen Chari,Barh-K h,9.14,18.39
+236,Gore,TCD,Logone Oriental,La Nya Pendm,7.92,16.63
+1962,Am Timan,TCD,Salamat,Barh-Azoum,11.04,20.28
+1963,Kélo,TCD,Tandjile,Tandjile-Ouest,9.31,15.8
+1964,Bongor,TCD,Mayo Kebbi Est,Mayo Boneye,10.28,15.39
+1965,National Average,TCD,,,,
+2279,Ati,TCD,Batha,Batha-Ouest,13.21,18.33
+2280,Oum Hadjer,TCD,,,,
+2281,Kyabe,TCD,Moyen Chari,Lac Iro,9.45,18.94
+2282,Koumra,TCD,Mandoul,Mandoul Oriental,8.92,17.55
+2283,Moissala,TCD,Mandoul,Barh-Sara,8.34,17.76
+2284,Peni,TCD,Mandoul,Mandoul Occidental,8.8,17.3
+2285,Maro,TCD,Moyen Chari,Grande Sido,8.42,18.77
+2286,Aboudeia,TCD,Salamat,Aboudeia,11.45,19.28
+2287,Bousso,TCD,Chari Baguirmi,Loug-Chari,10.48,16.71
+2288,Pala,TCD,Mayo Kebbi Ouest,Mayo-Dallah,9.37,14.91
+2289,Laï,TCD,Tandjile,Tandjile-Est,9.4,16.31
+2290,Goz Beida,TCD,Sila,Kimiti,12.23,21.41
+2291,Nokou,TCD,Kanem,Nord-Kanem,14.58,14.78
+2292,Benoye,TCD,Logone Occidental,Ngourkoussou,8.99,16.32
+2293,Doba,TCD,Logone Oriental,La Pend,8.67,16.86
+2294,Biltine,TCD,Wadi Fira,Biltine,14.54,20.91
+2295,Massakory,TCD,Hadjer Lamis,Dagana,13,15.73
+2296,Bokoro,TCD,Hadjer Lamis,Dababa,12.38,17.06
+2297,Ngouri,TCD,Lac,Wayi,13.64,15.37
+2298,Mbaïnamar,TCD,Logone Occidental,Dodje,8.67,15.38
+2299,Mandelia,TCD,Chari Baguirmi,Chari,11.73,15.24
+2300,Iriba,TCD,Wadi Fira,Iriba,15.13,22.25
+2301,Amdam,TCD,Sila,Djourouf Al Ahmar,12.76,20.47
+2302,Abdi,TCD,Ouaddai,Abdi,12.81,21.3
+2303,Mbaïbokoum,TCD,Logone Oriental,Monts de Lam,7.74,15.69
+2707,Am-Zoer,TCD,Wadi Fira,Biltine,14.22,21.39
+2708,Bebedja,TCD,Logone Oriental,La Nya,8.67,16.57
+2709,Beboto,TCD,Logone Oriental,Kouh-Ouest,8.26,16.93
+2710,Bodo,TCD,Logone Oriental,Kouh-Est,8.29,17.14
+2711,Fianga,TCD,Mayo Kebbi Est,Mont Illi,9.92,15.12
+2712,Gueledeng,TCD,Mayo Kebbi Est,Mayo-Lemi,10.92,15.54
+2713,Guereda,TCD,Wadi Fira,Dar-Tama,14.52,22.09
+2714,Krim Krim,TCD,Logone Occidental,Gueni,8.97,15.8
+2715,Mangalme,TCD,Guera,Mangalma,12.36,19.61
+2716,Massaguet,TCD,Hadjer Lamis,Haraze-Al-Biar,12.48,15.44
+2717,Massenya,TCD,Chari Baguirmi,Baguirmi,11.4,16.17
+2718,Mondo,TCD,Kanem,Wadi-Bissam,13.78,15.53
+2719,Bitkine,TCD,Guera,Abtouyour,11.98,18.21
+2720,Haraze Mangueigne,TCD,Salamat,Haraze Mangueigne,9.95,20.91
+2721,Lere,TCD,Mayo Kebbi Ouest,Lac-LBrn,9.66,14.22
+2722,Yao,TCD,Batha,Fitri,12.85,17.56
+2755,Melfi,TCD,Guera,Barh-Signaka,11.06,17.93
+4468,Ter,TCD,Tandjile,Tandjile-Est,9.28,16.9
+4469,Tcharaou,TCD,Ouaddai,Abdi,12.3,21.53
+4470,Tapol,TCD,Logone Occidental,Dodje,8.48,15.6
+4471,Sido,TCD,Moyen Chari,Grande Sido,8.25,18.71
+4472,Roro,TCD,Moyen Chari,Lac Iro,9.7,19.08
+4473,Pont Karol,TCD,Mayo Kebbi Est,Kabia,9.59,15.49
+4474,Ngamongo,TCD,Tandjile,Tandjile-Est,9.2,16.53
+4475,Ndjamena Bilala,TCD,Batha,Fitri,13.09,17.31
+4476,Moito,TCD,Hadjer Lamis,Dababa,12.56,16.55
+4477,Michemire,TCD,Barh El Gazal,Barh El Gazel Sud,13.83,15.93
+4478,Mbitoye,TCD,Logone Oriental,Monts de Lam,7.56,15.56
+4479,Ndjamena (Marche Al Afia),TCD,Ndjaména,Ndjamena,12.13,15.06
+4480,Ndjamena (Marche A Mil),TCD,Ndjaména,Ndjamena,12.11,15.06
+4481,Maibo,TCD,Logone Occidental,Lac Wey,8.73,16.11
+4482,Macarati,TCD,Hadjer Lamis,Dagana,13.1,15.17
+4483,Loumia,TCD,Chari Baguirmi,Chari,11.43,15.33
+4484,Kiskawa,TCD,Lac,Fouli,14.24,13.92
+4485,Karme,TCD,Hadjer Lamis,Haraze-Al-Biar,12.55,15.55
+4493,Kalait,TCD,Tibesti,Tibest-Ouest,20.84,15.85
+4494,Haraze,TCD,Salamat,Haraze Mangueigne,9.95,20.91
+4495,Gounou-Gaya,TCD,Mayo Kebbi Est,Kabia,9.61,15.51
+4496,Gama,TCD,Hadjer Lamis,Dababa,11.79,17.16
+4497,Gagal,TCD,Mayo Kebbi Ouest,Mayo-Dallah,9.02,15.13
+4498,Faya,TCD,Borkou,Borkou,17.92,19.11
+4499,Eref,TCD,Guera,Mangalma,12.37,19.23
+4500,Dourbali,TCD,Chari Baguirmi,Baguirmi,11.79,15.86
+4501,Dopele,TCD,Moyen Chari,Barh-K h,8.78,18.83
+4502,Doher,TCD,Logone Occidental,Ngourkoussou,9,16.27
+4503,Djera,TCD,Tandjile,Tandjile-Ouest,9.46,15.72
+4504,Deli,TCD,Logone Occidental,Lac Wey,8.71,15.87
+4505,Darasna,TCD,Salamat,Aboudeia,11.35,19.78
+4506,Dally,TCD,Mandoul,Barh-Sara,8.49,17.43
+4507,Bessao,TCD,Logone Oriental,Monts de Lam,7.87,15.96
+4508,Bere,TCD,Tandjile,Tandjile-Centre,9.31,16.15
+4509,Bedjondo,TCD,Mandoul,Mandoul Occidental,8.61,17.19
+4510,Bedjial,TCD,Logone Oriental,La Pend,8.93,16.75
+4511,Beboungai,TCD,Logone Oriental,Kouh-Ouest,8.35,16.85
+4512,Baro,TCD,Guera,Guera,12.17,18.9
+4513,Bao,TCD,Logone Occidental,Gueni,9.02,16.08
+4514,Bagassola,TCD,Lac,Kaya,13.55,14.3
+4515,N'djamena (Atrone),TCD,Ndjaména,Ndjamena,12.09,15.13
+4516,Ardo,TCD,Salamat,Barh-Azoum,11.39,20.51
+4517,Amdjarass,TCD,Ennedi Est,Amdjarass,16.17,22.83
+4518,Ambassatna,TCD,Batha,Fitri,13.15,17.75
+4519,Adre,TCD,Ouaddai,Assongha,13.46,22.19
+4520,Abkhouta,TCD,Ouaddai,Ouara,13.49,20.49
+5600,Timberi,TCD,Logone Oriental,La Nya Pendm,8.15,16.52
+5601,Manda 1,TCD,Moyen Chari,Barh-K h,9.18,18.21
+5604,Chinguil,TCD,Guera,Barh-Signaka,10.57,18.96
+5605,Mokofi,TCD,Hadjer Lamis,Dababa,11.64,17.4
+5606,Kouka,TCD,Guera,Mangalma,12.78,19.8
+5607,Bitchotchi,TCD,Guera,Mangalma,12.85,19.57
+5608,Tronga,TCD,Wadi Fira,Biltine,14.52,21.2
+5609,Mardibe,TCD,Wadi Fira,Biltine,14.53,21.23
+5610,Bakaore,TCD,Wadi Fira,Megri,15.18,21.49
+5611,Kouba,TCD,Wadi Fira,Iriba,15.19,22.15
+5612,Ourba,TCD,Wadi Fira,Iriba,15.24,22.27
+5613,Chaddra,TCD,Barh El Gazal,Barh El Gazel Ouest,13.44,16.05
+5614,Salal,TCD,Barh El Gazal,Barh El Gazel Nord,14.85,17.22
+5615,Koundjourou,TCD,Batha,Batha-Ouest,13.09,18.61
+5616,Liwa,TCD,Lac,Fouli,13.87,14.26
+5617,Zaguere,TCD,Mayo Kebbi Ouest,Lac-LBrn,9.65,14.08
+5618,Danamadji,TCD,Moyen Chari,Grande Sido,8.75,18.55
+5619,Maibo/CST,TCD,Moyen Chari,Barh-K h,8.99,18.51
+5620,Gon,TCD,Mandoul,Barh-Sara,8.1,17.67
+5621,Goundi,TCD,Mandoul,Mandoul Oriental,9.36,17.36
+5622,Ngangara,TCD,Mandoul,Mandoul Oriental,9.21,17.42
+5623,Oumhadjer,TCD,Batha,Batha-Est,13.23,19.24
+5624,Birtewil,TCD,Ouaddai,Assongha,13.73,21.68
+5625,Korney,TCD,Ouaddai,Ouara,13.98,21.33
+5626,Farchana,TCD,Ouaddai,Assongha,13.58,21.82
+5627,Amleyoun,TCD,Ouaddai,Ouara,13.76,21.35
+5628,Camp de Bredjing,TCD,Ouaddai,Assongha,13.48,21.7
+5629,Abougoudam,TCD,Ouaddai,Ouara,13.66,20.75
+5630,Camp de Hadjer-Hadid,TCD,Ouaddai,Assongha,13.44,21.66
+5631,Galgass,TCD,Ouaddai,Abdi,13.28,21.25
+5632,Borota,TCD,Ouaddai,Assongha,13,21.85
+5657,Mouroumgoulaye,TCD,Tandjile,Tandjile-Est,9.16,17.17
+5658,Bisket,TCD,Ouaddai,Assongha,13.54,22.03
+5659,Camp de Gaga,TCD,Ouaddai,Assongha,13.76,21.46
+5660,Haouich,TCD,Sila,Djourouf Al Ahmar,12.43,20.94
+5661,Magrane,TCD,Sila,Djourouf Al Ahmar,12.83,20.26
+5662,Camp de Kerfi,TCD,Sila,Kimiti,11.89,21.3
+5717,Arada,TCD,Wadi Fira,Biltine,15.03,20.66
+5718,Camp de Kounougou,TCD,Wadi Fira,Dar-Tama,14.46,21.93
+5719,Matadjana,TCD,Wadi Fira,Megri,15.17,21.58
+5720,Moudeina,TCD,Sila,Kimiti,12.57,22.32
+5721,Djire,TCD,Wadi Fira,Dar-Tama,14.42,21.68
+5722,Camp de Amnabak,TCD,Wadi Fira,Iriba,14.8,22.33
+5723,Mata,TCD,Wadi Fira,Biltine,14.04,21.16
+5724,Abker-Djombo,TCD,Ouaddai,Abdi,13.18,21.08
+5725,Addé,TCD,Sila,Kimiti,12.66,21.9
+5726,Birak,TCD,Wadi Fira,Dar-Tama,14.23,22.42
+5727,Tine Djagarba,TCD,Wadi Fira,Iriba,15.03,22.79
+5728,Iridimi,TCD,Wadi Fira,Iriba,15.18,22.1
+5729,Igot,TCD,Wadi Fira,Megri,14.98,22.06
+6102,Zouar,TCD,Tibesti,Tibest-Ouest,20.46,16.53
+6103,Bardai,TCD,Tibesti,Tibesti-Est,21.35,17
+6104,Fada,TCD,Ennedi Ouest,Fada,17.18,21.58
+6110,Koundoul,TCD,Chari Baguirmi,Chari,11.97,15.15
+6771,Dourgoulanga,TCD,Barh El Gazal,Barh El Gazel Nord,14.39,16.88
+6772,Mouzragui,TCD,Barh El Gazal,Barh El Gazel Ouest,13.33,15.98
+6773,Gaba,TCD,Barh El Gazal,Barh El Gazel Nord,13.99,16.48
+6774,Fassaladjoul,TCD,Barh El Gazal,Barh El Gazel Sud,13.28,16.55
+6775,Madrianga,TCD,Barh El Gazal,Barh El Gazel Sud,13.07,16.57
+6776,Kamkalaga,TCD,Barh El Gazal,Barh El Gazel Sud,13.27,16.42
+6777,Dolok,TCD,Barh El Gazal,Barh El Gazel Sud,13.18,16.71
+6778,Adjob,TCD,Batha,Batha-Est,13.26,19.39
+6779,Kachako,TCD,Batha,Batha-Est,13.8,19.19
+6780,Amsack,TCD,Batha,Batha-Est,13.67,19.76
+6781,Dop Dop,TCD,Batha,Batha-Est,13.62,20.12
+6782,Assinet,TCD,Batha,Batha-Est,13.23,19.2
+6783,Abouhadjilidj,TCD,Batha,Batha-Ouest,13.38,17.8
+6784,Alifa,TCD,Batha,Fitri,12.84,17.92
+6785,Djedda,TCD,Batha,Batha-Ouest,13.51,18.59
+6786,Amdarabaye,TCD,Batha,Fitri,13.22,17.55
+6787,Oure Cassoni,TCD,Ennedi Est,Wadi Hawar,15.7,23.05
+6788,Sara Arabe,TCD,Guera,Abtouyour,12.1,18.12
+6789,Tchalo Zoudou,TCD,Guera,Abtouyour,12.15,18.51
+6790,Korlongo,TCD,Guera,Abtouyour,12.16,18.48
+6791,Sila,TCD,Guera,Barh-Signaka,11.38,18.11
+6792,Ali Dinar,TCD,Guera,Barh-Signaka,11.34,17.32
+6793,Adjal Allah,TCD,Chari Baguirmi,Baguirmi,11.02,17.1
+6794,Domaye,TCD,Guera,Guera,11.89,18.89
+6795,Katalog,TCD,Guera,Mangalma,11.83,19
+6796,Chingueat,TCD,Guera,Mangalma,12.79,19.72
+6797,Djokori,TCD,Guera,Mangalma,12.32,19.63
+6798,Dabazine,TCD,Guera,Mangalma,12.75,19.49
+6799,Kekedina,TCD,Kanem,Kanem,13.84,14.84
+6800,Wolie,TCD,Kanem,Kanem,13.7,14.77
+6801,Nguelaydinga,TCD,Lac,Mamdi,13.99,14.55
+6802,Ngourtoula,TCD,Lac,Mamdi,13.83,14.58
+6803,Bournounkou,TCD,Kanem,Kanem,14.15,15.78
+6804,Djara,TCD,Kanem,Kanem,13.82,15.39
+6805,Foyo,TCD,Kanem,Nord-Kanem,14.65,14.21
+6806,Bour,TCD,Kanem,Nord-Kanem,14.66,14.62
+6807,Rig-Rig,TCD,Kanem,Nord-Kanem,14.26,14.35
+6808,Ntiona,TCD,Kanem,Nord-Kanem,14.46,15.43
+6809,Dokora,TCD,Kanem,Wadi-Bissam,13.42,15.82
+6810,Amdoback,TCD,Kanem,Wadi-Bissam,13.33,15.67
+6811,Bourboura,TCD,Lac,Wayi,13.39,15.51
+6812,Diamerom,TCD,Lac,Kaya,13.95,13.94
+6813,Forkouloum,TCD,Lac,Kaya,13.6,14.13
+6814,Nguelea,TCD,Lac,Mamdi,13.58,14.46
+6815,Ngarangou,TCD,Lac,Wayi,13.57,14.83
+6816,Kangalom,TCD,Lac,Mamdi,13.25,14.97
+6817,Tafa,TCD,Lac,Wayi,13.33,14.97
+6818,Djigdada,TCD,Lac,Wayi,13.56,15.16
+6819,Isserom,TCD,Lac,Wayi,13.47,15.05
+6820,Amerom,TCD,Hadjer Lamis,Dagana,13.35,15.26
+6821,Kouloudia,TCD,Hadjer Lamis,Dagana,13.02,15.27
+6822,Doum-Doum,TCD,Hadjer Lamis,Dagana,13.19,15.39
+6823,Djiguineiti,TCD,Lac,Wayi,13.59,15.29
+6824,Bekourou,TCD,Mandoul,Barh-Sara,8.12,17.51
+6825,Dembo,TCD,Mandoul,Barh-Sara,8.14,17.83
+6826,Biyere,TCD,Ouaddai,Abdi,12.74,21
+6827,Koukou-Angarana,TCD,Sila,Kimiti,12.01,21.66
+6828,Aradip,TCD,Sila,Kimiti,12,21.73
+6829,Ganatir,TCD,Wadi Fira,Biltine,14.54,20.61
+6830,Camp de Mile,TCD,Wadi Fira,Dar-Tama,14.59,21.93
+6831,Camp de Touloum,TCD,Wadi Fira,Iriba,15,22.27
+6832,Margouille,TCD,Wadi Fira,Megri,15.21,21.83
+6836,Erre,TCD,Wadi Fira,Iriba,15.17,22.09
+8370,Melleat,TCD,Barh El Gazal,Barh El Gazel Ouest,13.05,16.23
+8371,Mandjoura,TCD,Barh El Gazal,Barh El Gazel Nord,13.81,17.08
+8372,Amsalam,TCD,Batha,Batha-Est,13.45,20.21
+8373,Koundjar,TCD,Batha,Batha-Est,13.3,19.03
+8374,Koldjine,TCD,Batha,Batha-Ouest,12.76,18.11
+8375,Douguia,TCD,Hadjer Lamis,Haraze-Al-Biar,12.64,14.83
+8376,Welebene,TCD,Kanem,Wadi-Bissam,13.7,15.83
+8377,Morzigui,TCD,Kanem,Wadi-Bissam,13.64,15.71
+8378,Kopoye,TCD,Barh El Gazal,Barh El Gazel Sud,14.26,15.97
+8379,Saada,TCD,Kanem,Kanem,14.18,14.49
+8380,Motoa,TCD,Kanem,Wadi-Bissam,13.52,15.49
+8381,Moal Mounoussa,TCD,Kanem,Wadi-Bissam,13.58,15.57
+8382,Dilaye,TCD,Kanem,Kanem,14.08,15.55
+8383,Tchoukoutalia,TCD,Lac,Kaya,13.53,14.02
+8384,Chokoyane,TCD,Ouaddai,Ouara,13.36,21.23
+8385,Tidjani,TCD,Ouaddai,Assongha,13.93,21.66
+8386,Mabrone,TCD,Ouaddai,Assongha,13.91,21.79
+8387,Gueri Amhitane,TCD,Ouaddai,Ouara,14.21,20.26
+8388,Traone,TCD,Ouaddai,Assongha,13.84,21.63
+8389,Moyo,TCD,Salamat,Haraze Mangueigne,9.91,20.88
+8390,Mogororo,TCD,Sila,Kimiti,12.06,22.3
+8391,Sarafbourgou,TCD,Sila,Kimiti,11.62,22.39
+8392,Idiguine,TCD,Wadi Fira,Biltine,14.16,21.15
+8393,Kourkoure,TCD,Wadi Fira,Dar-Tama,14.23,21.6
+8394,Omol,TCD,Wadi Fira,Dar-Tama,14.17,21.65
+8395,Ourda,TCD,Wadi Fira,Iriba,15.56,22.54
+8403,Chaouir,TCD,Guera,Guera,12.41,18.94
+8404,Bekan,TCD,Logone Oriental,La Nya Pendm,7.82,16.41
+8405,Zawya,TCD,Sila,Kimiti,12.42,22.29
+8406,Taradona,TCD,Ouaddai,Ouara,13.82,20.83
+8407,Am-Djalad,TCD,Salamat,Barh-Azoum,10.93,20.25
+8408,Binder,TCD,Mayo Kebbi Ouest,Mayo Binder,9.96,14.47
+8747,Koufroune,TCD,Ouaddai,Assongha,13.67,22.12
+8748,Goungour,TCD,Ouaddai,Assongha,13.19,22.06
+8749,Tarchana,TCD,Ouaddai,Assongha,13.29,22.19
+8750,Katarfa,TCD,Ouaddai,Assongha,13.09,21.97
+8751,Dressia,TCD,Ouaddai,Assongha,13.13,21.89
+8752,Hileket,TCD,Ouaddai,Assongha,13.08,21.85
+8753,Birkanji,TCD,Ouaddai,Assongha,12.83,21.81
+8754,Sissi,TCD,Ouaddai,Assongha,12.82,21.78
+8755,Nakoulouta,TCD,Ouaddai,Assongha,12.92,21.85
+8756,Ablouck,TCD,Sila,Kimiti,13.26,22.18
+8757,Abssogo,TCD,Sila,Kimiti,12.18,22.34
+8758,Ambeignon,TCD,Salamat,Haraze Mangueigne,13.24,22.15
+8759,Tcherkeria,TCD,Sila,Kimiti,12.27,22.26
+8760,Bobota,TCD,Sila,Kimiti,13.62,22.1
+8761,Noukounoukou,TCD,Sila,Kimiti,11.16,22.73
+8762,Glane,TCD,Sila,Kimiti,11.4,22.79
+8763,Djodjokai,TCD,Sila,Kimiti,13.15,22
+8764,Djamkadignon,TCD,Sila,Kimiti,13.35,22.15
+8765,Ketengerette,TCD,Wadi Fira,Dar-Tama,14.11,22.1
+8797,Koloye,TCD,Sila,Kimiti,12.54,22.18
+9034,Djabal,TCD,Sila,Kimiti,12.23,21.39
+9035,Goz Amir,TCD,Sila,Kimiti,12,21.69
+9349,Abreye,TCD,Guera,Mangalma,12.36,19.64
+9350,Banda,TCD,Guera,Guera,12.18,18.68
+9351,Melea,TCD,Kanem,Kanem,13.7,14.77
+9352,Rig Rig,TCD,Kanem,Kanem,13.7,14.77
+9353,Zane,TCD,Guera,Barh-Signaka,10.94,18.62
+9687,Bahai,TCD,Ennedi Est,Wadi Hawar,15.54,22.91
+9688,Camp de Arkoum,TCD,Ouaddai,Assongha,13.2,21.71
+9689,Camp de Metche,TCD,Ouaddai,Assongha,13.19,21.91
+9690,Camp de Ourang,TCD,Ouaddai,Assongha,13.31,22.01
+9691,Camp de Zabout,TCD,Sila,Kimiti,12.49,21.66
+9725,Dindile,TCD,Wadi Fira,Dar-Tama,14.15,21.66
+9726,Gourmanka,TCD,Wadi Fira,Biltine,14.51,21.21
+9727,Daranga,TCD,Wadi Fira,Biltine,14.73,21.38
+9728,Begada,TCD,Logone Oriental,Kouh-Est,8.54,17.07
+9729,Dobiti,TCD,Logone Oriental,Kouh-Ouest,8.11,16.75
+9730,Mbikou,TCD,Logone Oriental,La Nya,8.6,16.39
+9800,Karal,TCD,Hadjer Lamis,Dagana,12.84,14.77
+9801,Gambarou,TCD,Chari Baguirmi,Chari,11.31,15.36
+9802,Begou,TCD,Moyen Chari,Barh-K h,9.16,18.38
+9806,Bardangal,TCD,Guera,Abtouyour,11.9,18.49
+10553,Koumogo,TCD,Moyen Chari,Barh-K h,8.67,18.27
+10554,Moussafoyo,TCD,Moyen Chari,Barh-K h,8.85,18.71
+10555,Elbore,TCD,Mayo Kebbi Ouest,Mayo Binder,9.83,14.35
+10556,Gnilim,TCD,Moyen Chari,Lac Iro,9.55,19
+10557,Djeke Djeké,TCD,Moyen Chari,Grande Sido,8.5,18.65
+10558,Mbraou,TCD,Mayo Kebbi Ouest,Mayo-Dallah,9.27,14.84
+10559,Ribao,TCD,Mayo Kebbi Ouest,Mayo Binder,9.79,14.31
+10560,Lagon,TCD,Mayo Kebbi Ouest,Lac-LBrn,9.47,14.53
+10561,Tikem,TCD,Mayo Kebbi Est,Mont Illi,9.81,15.05
+10562,Abba Limane,TCD,Mayo Kebbi Est,Mayo-Lemi,11.17,15.37
+10563,Moulkou,TCD,Mayo Kebbi Est,Mayo Boneye,10.54,15.58
+10564,Bebalem,TCD,Logone Occidental,Ngourkoussou,9,16.44
+10565,Bologo,TCD,Tandjile,Tandjile-Ouest,9.13,15.8
+10566,Baktchoro,TCD,Tandjile,Tandjile-Ouest,9.5,15.8
+10567,Deressia,TCD,Tandjile,Tandjile-Est,9.77,16.26
+10568,Misseré,TCD,Tandjile,Tandjile-Est,9.64,16.04
+10569,Delbian,TCD,Tandjile,Tandjile-Centre,9.19,16.19
+10570,Daha,TCD,Salamat,Haraze Mangueigne,9.93,20.87
+10571,Masmaye,TCD,Salamat,Haraze Mangueigne,9.96,20.89
+10572,Kar marche,TCD,Salamat,Haraze Mangueigne,9.95,20.92
+10573,Almidodil,TCD,Salamat,Barh-Azoum,11.3,20.65
+10574,Mouraye,TCD,Salamat,Barh-Azoum,11.47,20.83
+10575,Ba Illi,TCD,Chari Baguirmi,Loug-Chari,10.5,16.57
+10576,Ligna,TCD,Chari Baguirmi,Chari,12.06,15.31
+10577,Ngorerom,TCD,Lac,Mamdi,13.3,14.79
+10578,Fourkoulom,TCD,Lac,Mamdi,13.36,14.59
+10584,Gang,TCD,Tandjile,Tandjile-Ouest,9.62,15.79
+10585,Djoumane,TCD,Mayo Kebbi Est,Mayo Boneye,9.88,15.81
+10628,Batchoum,TCD,Hadjer Lamis,Dagana,12.85,15.66
+10629,Djarmaya,TCD,Hadjer Lamis,Haraze-Al-Biar,12.4,15.05
+10630,Mandabordje,TCD,Logone Occidental,Dodje,8.42,15.47
+10631,Larmanaye,TCD,Logone Oriental,Monts de Lam,8.04,15.71
+10632,Koutoufou,TCD,Sila,Kimiti,12.51,21.41
+10633,Marena,TCD,Sila,Kimiti,11.98,22.08
+10635,Fourkoulou,TCD,Barh El Gazal,Barh El Gazel Ouest,13.28,16.2
+10636,Nguedegue,TCD,Kanem,Kanem,14.43,15.35
+10637,Maguiyanga,TCD,Kanem,Wadi-Bissam,13.78,15.55
+10638,Al-alak,TCD,Salamat,Barh-Azoum,10.91,20.2
+10639,Am Djarad,TCD,Salamat,Barh-Azoum,11.29,20.12
+10640,Mireur,TCD,Salamat,Aboudeia,11.16,19.98
+11368,Dembe,TCD,Ndjaména,Ndjamena,12.1,15.08
+12206,Assartini,TCD,Batha,Batha-Est,13.26,19.83
+12207,Moutrare,TCD,Batha,Batha-Est,13.36,19.97
+12208,Ndjamena-Borno,TCD,Chari Baguirmi,Chari,12.01,15.22
+12209,Bao (Amdjarass),TCD,Ennedi Est,Amdjarass,16.46,23.01
+12210,Gormol Doungouss,TCD,Guera,Mangalma,12.45,19.61
+12211,Saraf Doungouss,TCD,Guera,Mangalma,12.55,19.7
+12212,Baladja,TCD,Hadjer Lamis,Dagana,12.98,15.45
+12213,Bir Barka,TCD,Hadjer Lamis,Dagana,12.69,15.56
+12214,Bao (Gueni),TCD,Logone Occidental,Gueni,9.04,16.1
+12215,Donia,TCD,Logone Oriental,La Nya Pendm,8.4,16.42
+12216,Madana,TCD,Logone Oriental,La Pend,9.01,16.66
+12217,Gournainda,TCD,Mayo Kebbi Est,Mayo Boneye,10.45,15.5
+12218,Sa-nanang,TCD,Mayo Kebbi Est,Mayo-Lemi,10.76,15.54
+12219,Medegué,TCD,Mayo Kebbi Est,Mayo-Lemi,11.03,15.45
+12220,Bissi,TCD,Mayo Kebbi Ouest,Lac-LBrn,9.38,14.61
+12221,Guelo,TCD,Mayo Kebbi Ouest,Lac-LBrn,9.54,14.28
+12222,Goïgoudoum,TCD,Mayo Kebbi Ouest,Mayo-Dallah,9.61,15.04
+12223,Sorga,TCD,Mayo Kebbi Ouest,Mayo-Dallah,9.37,15
+12224,Torrock,TCD,Mayo Kebbi Ouest,Mayo-Dallah,9.66,15.01
+12225,Camp de Dougui,TCD,Ouaddai,Abdi,13.26,21.31
+12226,Marfa,TCD,Ouaddai,Ouara,13.32,20.96
+12227,Moudre,TCD,Wadi Fira,Dar-Tama,14.67,22.26

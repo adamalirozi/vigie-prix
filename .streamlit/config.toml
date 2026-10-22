@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#4e79a7"
+backgroundColor = "#f4f5f7"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#30343b"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+# Pour auto-héberger une police (ex. Inter) : placer les fichiers dans
+# .streamlit/static/ puis activer les deux lignes suivantes.
+# [server]
+# enableStaticServing = true
