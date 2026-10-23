@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-demonstration-orange)
 
-[**Démo en ligne**](https://YOUR-APP.streamlit.app) · [Données](docs/DATA.md) · [Déploiement](docs/DEPLOYMENT.md) · [Déroulé de démo](docs/DEMO_SCRIPT.md) · [Contribuer](CONTRIBUTING.md) · [README en français](README.fr.md)
+[**Démo en ligne**](https://vigie-prix-nzmskazxva2ysia9wlmneh.streamlit.app) · [Données](docs/DATA.md) · [Déploiement](docs/DEPLOYMENT.md) · [Déroulé de démo](docs/DEMO_SCRIPT.md) · [Contribuer](CONTRIBUTING.md) · [README en français](README.fr.md)
 
 </div>
 

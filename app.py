@@ -111,7 +111,7 @@ if header_model.is_replay:
         f"Les prix réalisés ensuite (jusqu'en {month_label_long(header_model.data_last_obs)}) servent à vérifier "
         "les prévisions et les alertes.</div>", unsafe_allow_html=True)
 
-with st.expander("Parcours de démonstration (5 minutes)"):
+with st.expander("Parcours de démonstration"):
     st.markdown(
         """
 1. **Situation** : onglet *Provinces*, bouton d'horizon **M+1 / M+2 / M+3** ; cliquez une province sur la carte.

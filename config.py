@@ -30,7 +30,7 @@ APP_SUBTITLE = "Prévisions de prix des céréales à 1, 2 et 3 mois, et alertes
 APP_BRAND = "Vigie Prix · démonstration"
 APP_ICON = "🌾"
 DATA_SOURCE = "WFP Price Database (HDX)"
-DEMO_BANNER = "Démonstration · données publiques WFP · seuils et alertes non validés par le SISAAP"
+#DEMO_BANNER = "Démonstration · données publiques WFP · seuils et alertes non validés par le SISAAP"
 ORG_NAME = "adamalirozi/vigie-prix"
 UNIT = "FCFA/kg"
 

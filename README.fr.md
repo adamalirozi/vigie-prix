@@ -3,7 +3,7 @@
 Des prévisions de prix des céréales à **1, 2 et 3 mois** pour « Al Aswak » et le suivi du **MEB**, sur données publiques
 du WFP (prix de détail en FCFA/kg). **Démonstration** : seuils, alertes et composition du MEB **non validés par le SISAAP**.
 
-**Démo en ligne** : https://YOUR-APP.streamlit.app
+**Démo en ligne** : https://vigie-prix-nzmskazxva2ysia9wlmneh.streamlit.app
 
 ## Ce que montre la démonstration
 - **Provinces et départements** : prix au kilo, projection M+1/M+2/M+3, carte cliquable, marchés suivis, prix estimés
